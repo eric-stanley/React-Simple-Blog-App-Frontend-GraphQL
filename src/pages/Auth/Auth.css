@@ -1,0 +1,17 @@
+.auth-form {
+  width: 90%;
+  margin: auto;
+  padding: 1rem;
+  border: 1px solid #3b0062;
+  border-radius: 5px;
+}
+
+.input {
+  width: 97%;
+}
+
+@media (min-width: 768px) {
+  .auth-form {
+    width: 40rem;
+  }
+}
