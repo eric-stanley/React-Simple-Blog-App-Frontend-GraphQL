@@ -183,7 +183,7 @@ class Feed extends Component {
       formData.append('oldPublicId', this.state.editPost.imagePublicId);
     }
     fetch(process.env.REACT_APP_API_URL + '/post-image', {
-      method: 'PUT',
+      method: 'POST',
       headers: {
         Authorization: 'Bearer ' + this.props.token
       },

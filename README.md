@@ -67,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
+### Demo link
+https://react-simple-blog-app-graphql.netlify.app/ <br />
+https://react-simple-blog-app-graphql.onrender.com/ <br />
+https://react-simple-blog-app-graphql.vercel.app/
